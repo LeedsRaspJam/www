@@ -1,2 +1,2 @@
 # LRJ
-Jekyll files for website at [leedsraspjam.co.uk](https://leedsraspjam.co.uk)
+Jekyll files for the website at [leedsraspjam.co.uk](https://leedsraspjam.co.uk)
