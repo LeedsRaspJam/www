@@ -1,6 +1,6 @@
 ---
 title: Example Post
-author: James Cook
+author: James
 layout: post
 ---
 Hi, this is an example post, in the future we may put posts here to update you on events or updates on projects

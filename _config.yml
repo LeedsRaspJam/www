@@ -34,6 +34,7 @@ plugins:
 read_time: true
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
+search: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
