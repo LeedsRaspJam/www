@@ -7,4 +7,4 @@ redirect_to:
   - https://www.eventbrite.co.uk/o/the-foundation-for-digital-creativity-19981872804
 ---
 
-To book onto an event simply visit our eventbrite page here. All the events are free of charge
+To book onto one of our free events, check out our Eventbrite page.
