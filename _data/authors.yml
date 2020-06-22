@@ -8,4 +8,7 @@ James:
     - title: GitHub
       url: https://github.com/jamesatjaminit
       icon: fab fa-github-square
+    - title: Email
+      url: mailto:contact@jaminit.co.uk
+      icon: fab fa-envelope-o
   picture: "/images/profile/james.png"
