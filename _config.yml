@@ -30,7 +30,7 @@ twitter_username: leedsraspjam
 github_username:  lrj-web
 
 # Build settings
-remote_theme: "thesowah/wangana"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 # Exclude from processing.
