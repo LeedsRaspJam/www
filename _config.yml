@@ -35,6 +35,7 @@ read_time: true
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 copyright: "Licenced under Creative Commons Attribution Share Alike 4.0 International<br><a href=\"https://github.com/lrj-web/www/\" target=\"_blank\">View Source on Github</a>"
+logo: /images/misc/logo.png
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
