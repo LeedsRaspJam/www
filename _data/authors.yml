@@ -10,5 +10,5 @@ James:
       icon: fab fa-github-square
     - title: Email
       url: mailto:contact@jaminit.co.uk
-      icon: fa fa-envelope-o
+      icon: fa fa-envelope
   picture: "/images/profile/james.png"
