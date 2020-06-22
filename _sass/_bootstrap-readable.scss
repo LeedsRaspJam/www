@@ -1378,7 +1378,7 @@ a.text-danger:focus {
 }
 .bg-primary {
   color: #fff;
-  background-color: #4582ec;
+  background-color: #383838;
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
@@ -4579,11 +4579,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #4582ec;
 }
 .navbar-default .btn-link {
-  color: #4582ec;
+  color: #383838;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
-  color: #4582ec;
+  color: #383838;
 }
 .navbar-default .btn-link[disabled]:hover,
 fieldset[disabled] .navbar-default .btn-link:hover,
@@ -5143,7 +5143,7 @@ a.thumbnail.active {
   line-height: 22px;
   color: #ffffff;
   text-align: center;
-  background-color: #4582ec;
+  background-color: #383838;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -webkit-transition: width 0.6s ease;
@@ -5703,22 +5703,22 @@ button.list-group-item-danger.active:focus {
   border-bottom-color: #dddddd;
 }
 .panel-primary {
-  border-color: #4582ec;
+  border-color: #383838;
 }
 .panel-primary > .panel-heading {
   color: #ffffff;
-  background-color: #4582ec;
-  border-color: #4582ec;
+  background-color: #383838;
+  border-color: #383838;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #4582ec;
+  border-top-color: #383838;
 }
 .panel-primary > .panel-heading .badge {
-  color: #4582ec;
+  color: #383838;
   background-color: #ffffff;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #4582ec;
+  border-bottom-color: #383838;
 }
 .panel-success {
   border-color: #3fad46;
