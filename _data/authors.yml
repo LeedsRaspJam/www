@@ -1,0 +1,10 @@
+# /_data/authors.yml
+James:
+  name: James Cook
+  links:
+    - title: Twitter
+      url: https://twitter.com/JamesAtJamInIT
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/jamesatjaminit
+      icon: fab fa-github-square
