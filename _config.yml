@@ -35,6 +35,15 @@ read_time: true
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 search: true
+James:
+  name: James Cook
+  links:
+    - title: Twitter
+      url: https://twitter.com/JamesAtJamInIT
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/jamesatjaminit
+      icon: fab fa-github-square
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
