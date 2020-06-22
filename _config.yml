@@ -30,10 +30,9 @@ twitter_username: leedsraspjam
 github_username:  lrj-web
 
 # Build settings
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "thesowah/wangana"
 plugins:
   - jekyll-feed
-search: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
