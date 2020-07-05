@@ -26,9 +26,9 @@ paginate: 6
 paginate_path: /page:num/
 
 #social
-facebook: http://facebook.com/leedsraspjam
-twitter: http://twitter.com/leedsraspjam
-github: http://github.com/leedsraspjam
+facebook: https://facebook.com/leedsraspjam
+twitter: https://twitter.com/leedsraspjam
+github: https://github.com/leedsraspjam
 email: hello@leedsraspjam.co.uk
 
 #facebook like box
